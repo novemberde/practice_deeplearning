@@ -1,0 +1,17 @@
+keras
+libgpuarray
+libprotobuf
+mako
+mock
+pbr
+protobuf
+pygpu
+tensorflow
+theano
+numpy
+six
+tensorflow
+pyyaml
+scipy
+h5py
+matplotlib
